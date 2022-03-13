@@ -10,7 +10,7 @@
 #### **I'm a self-taught developer seeking to launch a career building web apps and services.**
 
 
-Hi, My name is haitham  and for a long time I have been always a person obsessed with the idea of making something from scratch or fix it  
+Hi, My name is Haitham  and for a long time I have been always a person obsessed with the idea of making something from scratch or fix it  
 and if I don't know how I'd keep trying to find out how to do it. I'm passionate about the big picture down to the pixel ,so programming has been a perfect fit for me.
 
 during the quarantine I had the opportunity to focus on it and change my life. when I started learning programming I have bacame obsessed with backend development with (.NET) and C# language, so my focus is to learn more and more about backend web development and enter the web industry.
