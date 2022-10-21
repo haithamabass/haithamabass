@@ -13,7 +13,7 @@
 Hi, My name is Haitham  and for a long time I have been always a person obsessed with the idea of making something from scratch or fix it  
 and if I don't know how I'd keep trying to find out how to do it. I'm passionate about the big picture down to the pixel ,so programming has been a perfect fit for me.
 
-during the quarantine I had the opportunity to focus on it and change my life. when I started learning programming I have bacame obsessed with backend development with (.NET) and C# language, so my focus is to learn more and more about backend web development and enter the web industry.
+during the quarantine I had the opportunity to focus on it and change my life. when I started learning programming I have bacome obsessed with backend development with (.NET) and C# language, so my focus is to learn more and more about backend web development and enter the web industry.
 
 :mortar_board:	I have a bachelor's degree in business administration , 3 years of experience working in the real estate industry and 
 6 month as a Dispatch - Logistics Coordinator in the freight pick up/delivery industry. 
