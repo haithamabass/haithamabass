@@ -14,7 +14,7 @@ Hello, my name is Haitham, and for a long time I've been captivated with the con
 
 During the quarantine, I had the opportunity to focus on it and improve my life. When I first started learning programming, I became intrigued with backend development using (.NET) and the C# language, so my goal is to learn more and more about backend web development and eventually enter the field.
 
-:mortar_board:	I have a bachelor's degree in business administration , 3 years of experience working in the real estate industry and 
+:mortar_board:	I have a bachelor's degree in business administration , 4 years of experience working in the real estate industry and 
 6 month as a Dispatch - Logistics Coordinator in the freight pick up/delivery industry. 
 </br>
 
