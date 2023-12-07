@@ -1,4 +1,4 @@
-## Hi I'm Haitham Abbas <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi, I'm Haitham Abbas <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 ### 🤝 Connect with me:
@@ -7,15 +7,15 @@
 </br>
 </br>
 
-#### **I'm a self-taught developer looking to start a career creating online apps and services.**
+#### **I'm a back-end developer.**
 
 
-Hello, my name is Haitham, and for a long time I've been captivated with the concept of constructing anything from scratch or fixing it, and if I didn't know how I'd keep trying to figure it out. I'm passionate about the big picture down to the pixel ,so programming has been a  natural match for me.
+Hello, my name is Haitham, and for a long time I've been captivated by the concept of constructing anything from scratch or fixing it, and if I didn't know how, I'd keep trying to figure it out. I'm passionate about the big picture down to the pixel, so programming has been a natural match for me.
 
 During the quarantine, I had the opportunity to focus on it and improve my life. When I first started learning programming, I became intrigued with backend development using (.NET) and the C# language, so my goal is to learn more and more about backend web development and eventually enter the field.
 
-:mortar_board:	I have a bachelor's degree in business administration , 4 years of experience working in the real estate industry and 
-6 month as a Dispatch - Logistics Coordinator in the freight pick up/delivery industry. 
+:mortar_board:	I have a bachelor's degree in business administration, 4.5 years of experience working in the real estate industry and 
+6 months as a Dispatch - Logistics Coordinator in the freight pick up/delivery industry. 
 </br>
 
 ## 💼 Technical Skills
